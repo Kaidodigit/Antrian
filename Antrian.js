@@ -1,0 +1,3 @@
+let antrian = []
+
+function a ()
